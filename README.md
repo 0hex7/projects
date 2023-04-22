@@ -6,6 +6,11 @@ contains the projects that i have worked upon till now.
 
 1.Ransomware
 
+     REQUIREMENTS:
+     need to install cryptography module in the terminal. 
+     ---> pip install cryptography    //for normal terminal 
+     ---> pip3 install cryptography   //alternate method 
+
     - I created a ransomware in python language. This ransomware is just a smal version of the actual Ransomwares.
     - We need to give the following command in the terminal in the directory in which the Ransomware is present.
     
