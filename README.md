@@ -35,10 +35,13 @@ contains the projects that i have worked upon till now.
                
                
 3.Keylogger
-
-   - Uses mail or the local directory to store the key strokes that are captured.
+    
+     - Uses mail or the local directory to store the key strokes that are captured.
    
-4.Portscanner
-
-   - Scans for any open ports in a host.
-   - We must give the ip address of the target for scanning the ports.
+4.Portscanner 
+  
+    - Scans for any open ports in a host.
+    - We must give the ip address of the target for scanning the ports.
+    
+           $ python fast_port_scanner --help
+                -displays all the available options in the scanner
