@@ -5,6 +5,7 @@ contains the projects that i have worked upon till now.
 1.Ransomware
     - I created a ransomware in python language. This ransomware is just a smal version of the actual Ransomwares.
     - We need to give the following command in the terminal in the directory in which the Ransomware is present.
+    
           $ python ransomware.py -e test-folder -s 32
                - e stands for encryption
                - 32 is the length alloted for the salt(to make the password more stronger)
@@ -24,5 +25,6 @@ contains the projects that i have worked upon till now.
 2.Password generator
     - No special modules needed for this project.
     - we can use the below command to get all the available options 
+    
           $ python password_generator.py --help
                - the above command lists out all the possible commands and methods to run the program
