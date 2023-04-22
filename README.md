@@ -2,7 +2,10 @@
 
 contains the projects that i have worked upon till now.
 
+
+
 1.Ransomware
+
     - I created a ransomware in python language. This ransomware is just a smal version of the actual Ransomwares.
     - We need to give the following command in the terminal in the directory in which the Ransomware is present.
     
@@ -23,6 +26,7 @@ contains the projects that i have worked upon till now.
       
 
 2.Password generator
+
     - No special modules needed for this project.
     - we can use the below command to get all the available options 
     
@@ -31,4 +35,10 @@ contains the projects that i have worked upon till now.
                
                
 3.Keylogger
-   -
+
+   - Uses mail or the local directory to store the key strokes that are captured.
+   
+4.Portscanner
+
+   - Scans for any open ports in a host.
+   - We must give the ip address of the target for scanning the ports.
