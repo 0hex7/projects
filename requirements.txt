@@ -1,5 +1,0 @@
-for the ransomware:
-
-need to install cryptography module in the terminal. 
-   ---> pip install cryptography    //for normal terminal 
-   ---> pip3 install cryptography   //alternate method 
